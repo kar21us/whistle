@@ -1,6 +1,6 @@
-# bj_text
+# Whistle
 
-A new Flutter project.
+The best way to get a hold of your gf when you can't type :).
 
 ## Getting Started
 
